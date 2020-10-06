@@ -1,2 +1,2 @@
 # YelpNLP
-This repo belongs to Sentiment Analysis, Recommendation System and Modelling with Yelp Dataset
+This repo belongs to NLP Classification and Sentiment Analysis. In this repo, Yelp, Foursquare and Twitter dataset used.
